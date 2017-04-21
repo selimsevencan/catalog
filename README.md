@@ -9,7 +9,7 @@
 
 # About the project
 
-I used React for the project. Even though I know Redux, I felt that it would not be very useful in this project. 
+I used React for the project.
 
 I've created this app with create-react-app command.
 
